@@ -1,0 +1,30 @@
+const cars = [
+    { id: 1, brand: "Toyota", model: "Corolla", price: 20000, rating: 4.5, type: "Sedan" },
+    { id: 2, brand: "Ford", model: "F-150", price: 35000, rating: 4.7, type: "Truck" },
+    { id: 3, brand: "Tesla", model: "Model S", price: 80000, rating: 4.9, type: "Electric" },
+    { id: 4, brand: "Honda", model: "Civic", price: 22000, rating: 4.3, type: "Sedan" },
+    { id: 5, brand: "Chevrolet", model: "Silverado", price: 40000, rating: 4.6, type: "Truck" },
+    { id: 6, brand: "BMW", model: "X5", price: 60000, rating: 4.8, type: "SUV" },
+    { id: 7, brand: "Audi", model: "A4", price: 42000, rating: 4.7, type: "Sedan" },
+    { id: 8, brand: "Mercedes", model: "C-Class", price: 45000, rating: 4.7, type: "Sedan" },
+    { id: 9, brand: "Nissan", model: "Altima", price: 25000, rating: 4.4, type: "Sedan" },
+    { id: 10, brand: "Hyundai", model: "Tucson", price: 30000, rating: 4.5, type: "SUV" },
+    { id: 11, brand: "Kia", model: "Sportage", price: 28000, rating: 4.3, type: "SUV" },
+    { id: 12, brand: "Ford", model: "Mustang", price: 55000, rating: 4.8, type: "Sports" },
+    { id: 13, brand: "Porsche", model: "911", price: 120000, rating: 5.0, type: "Sports" },
+    { id: 14, brand: "Volkswagen", model: "Golf", price: 25000, rating: 4.4, type: "Hatchback" },
+    { id: 15, brand: "Mazda", model: "CX-5", price: 31000, rating: 4.6, type: "SUV" },
+    { id: 16, brand: "Tesla", model: "Model 3", price: 45000, rating: 4.9, type: "Electric" },
+    { id: 17, brand: "Toyota", model: "Camry", price: 27000, rating: 4.5, type: "Sedan" },
+    { id: 18, brand: "Lexus", model: "RX", price: 52000, rating: 4.8, type: "SUV" },
+    { id: 19, brand: "Jeep", model: "Wrangler", price: 40000, rating: 4.6, type: "SUV" },
+    { id: 20, brand: "Subaru", model: "Outback", price: 32000, rating: 4.5, type: "Wagon" },
+    { id: 21, brand: "Chevrolet", model: "Bolt EV", price: 37000, rating: 4.7, type: "Electric" },
+    { id: 22, brand: "BMW", model: "iX", price: 85000, rating: 4.9, type: "Electric" },
+    { id: 23, brand: "Mercedes", model: "EQC", price: 90000, rating: 4.8, type: "Electric" },
+    { id: 24, brand: "Ferrari", model: "488", price: 250000, rating: 5.0, type: "Sports" },
+    { id: 25, brand: "Lamborghini", model: "Huracan", price: 300000, rating: 5.0, type: "Sports" },
+  ];
+  
+  export default cars;
+  
